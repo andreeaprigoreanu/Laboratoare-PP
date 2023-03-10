@@ -1,5 +1,4 @@
-# Laboratoare PP
+# Laboratoare PP  
 
-Laboratorul 1: Introducere in Racket
-	-> prezentare: https://docs.google.com/presentation/d/1Sody-QTNZFRfkgqM4fk7YKQk49iwyWov6Cx1vpm4iNM/edit#slide=id.g20fe6680906_0_663
- 
+Laboratorul 1: Introducere in Racket  
+	-> prezentare: https://docs.google.com/presentation/d/1Sody-QTNZFRfkgqM4fk7YKQk49iwyWov6Cx1vpm4iNM/edit#slide=id.p
